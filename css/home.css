@@ -1,0 +1,18 @@
+ /* Navigation Bar -->*/
+.navbar-color{
+	background-color: #2E0854 !important;
+}
+
+.nav-link{
+	color: white;
+}
+
+/* Background */
+.fixed-bg {
+    background-image: url(img/boston_sunset.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

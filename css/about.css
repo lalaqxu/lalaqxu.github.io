@@ -1,0 +1,48 @@
+/*Background */
+body{
+	background-color: #E6E6FA;
+	text-align: center;
+}
+
+.internalbox{
+	background-color: white;
+	width: 90%;
+	margin: auto;
+	padding: 25px;
+}
+
+.topmargin{
+	margin-top:50px;
+}
+
+/* Navigation Bar */
+.navbar-color{
+	background-color: #2E0854 !important;
+}
+
+.nav-link{
+	color: white;
+}
+
+ /* Profile */
+.profilepic{
+	max-width:100%;
+}
+
+.fa{
+	font-size:150%;
+	color: #4B0082;
+}
+
+ /*Skills */
+.myprogress1::-webkit-progress-value {
+	background-color: #4B0082 !important;
+}
+
+.myprogress2::-webkit-progress-value {
+	background-color: #800080 !important;
+}
+
+.myprogress3::-webkit-progress-value {
+	background-color: #9370DB !important;
+}
