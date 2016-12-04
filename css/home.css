@@ -9,7 +9,7 @@
 
 /* Background */
 .fixed-bg {
-    background-image: url(img/boston_sunset.jpg);
+    background-image: url(..img/boston_sunset.jpg);
     min-height: 500px;
     background-attachment: fixed;
     background-position: center;
